@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Election Night 1860",
+    "url": "https://www.loc.gov/item/mal0440500/",
+    "type": "item",
+    "status": 200,
+    "api_available": true,
+    "has_transcript": true,
+    "transcript_url": "https://tile.loc.gov/storage-services/service/mss/mal/044/0440500/0440500.xml",
+    "pdf_url": "https://tile.loc.gov/storage-services/service/mss/mal/044/0440500/0440500.pdf",
+    "has_online_text": true,
+    "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)"
+  },
+  {
+    "name": "Fort Sumter Decision",
+    "url": "https://www.loc.gov/resource/mal.0882800/",
+    "type": "resource",
+    "status": 200,
+    "api_available": true,
+    "has_transcript": true,
+    "transcript_url": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.xml",
+    "pdf_url": "https://tile.loc.gov/storage-services/service/mss/mal/088/0882800/0882800.pdf",
+    "has_online_text": true,
+    "title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)"
+  },
+  {
+    "name": "Gettysburg Address",
+    "url": "https://www.loc.gov/exhibits/gettysburg-address/ext/trans-nicolay-copy.html",
+    "type": "exhibits",
+    "status": 200,
+    "html_available": true,
+    "content_length": 10116,
+    "has_transcript_content": true
+  },
+  {
+    "name": "Second Inaugural",
+    "url": "https://www.loc.gov/item/mal4361300/",
+    "type": "item",
+    "status": 200,
+    "api_available": true,
+    "has_transcript": true,
+    "transcript_url": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.xml",
+    "pdf_url": "https://tile.loc.gov/storage-services/service/mss/mal/436/4361300/4361300.pdf",
+    "has_online_text": true,
+    "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln, [March 4, 1865] (Second Inaugural Address; endorsed by Lincoln, April 10, 1865)"
+  },
+  {
+    "name": "Last Public Address",
+    "url": "https://www.loc.gov/resource/mal.4361800/",
+    "type": "resource",
+    "status": 200,
+    "api_available": true,
+    "has_transcript": true,
+    "transcript_url": "https://tile.loc.gov/storage-services/service/gdc/gdccrowd/mss/mal/436/4361800/4361800.txt",
+    "has_online_text": true,
+    "title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: E. B. Hall to Abraham Lincoln and James Speed, Saturday, March 18, 1865 (Recommendation)"
+  }
+]
