@@ -2,10 +2,10 @@
 CLI Entry Point - Trigger pipeline stages from command line.
 
 Usage:
-    python -m src.cli part1           # Run Part 1 only
-    python -m src.cli part2           # Run Part 2 only
-    python -m src.cli part2 --all     # Run Part 2 with all strategies
-    python -m src.cli all             # Run all parts
+    python -m src.cli part1
+    python -m src.cli part2
+    python -m src.cli part3
+    python -m src.cli part3 --experiments
 """
 
 import asyncio
@@ -38,10 +38,18 @@ def part2(
 
 
 @app.command()
-def part3():
-    """Run Part 3: LLM Judge. (Not implemented)"""
-    typer.echo("Part 3 not yet implemented")
-    raise typer.Exit(1)
+def part3(
+    strategy: str = typer.Option("cot", help="Prompt strategy: zero_shot, cot, few_shot"),
+    experiments: bool = typer.Option(False, "--experiments", help="Run all experiments"),
+    temperature: float = typer.Option(0.0, help="LLM temperature"),
+):
+    """Run Part 3: LLM Judge."""
+    from src.part3_judge.run import run_judge, run_experiments
+    
+    if experiments:
+        asyncio.run(run_experiments())
+    else:
+        asyncio.run(run_judge(strategy=strategy, temperature=temperature))
 
 
 @app.command()
@@ -57,7 +65,7 @@ def all():
     typer.echo("Running complete pipeline...")
     part1()
     part2(strategy="cot", all_strategies=False)
-    # part3(), part4() when implemented
+    part3(strategy="cot", experiments=False, temperature=0.0)
 
 
 if __name__ == "__main__":

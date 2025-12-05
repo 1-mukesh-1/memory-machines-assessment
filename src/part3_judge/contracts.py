@@ -82,11 +82,11 @@ class ManualLabel(BaseModel):
 
 class KappaResult(BaseModel):
     """Cohen's Kappa calculation result."""
-    manual_labels: list[bool]
+    manual_labels: list[bool]  # True = consistent
     llm_labels: list[bool]
     kappa: float
     agreement_pct: float
-    interpretation: str
+    interpretation: str  # "slight", "fair", "moderate", "substantial", "perfect"
 
 
 class SelfConsistencyResult(BaseModel):
@@ -100,6 +100,6 @@ class SelfConsistencyResult(BaseModel):
 
 class ExperimentSummary(BaseModel):
     """Summary of all Part 3 experiments."""
-    ablation: dict[str, float]
+    ablation: dict[str, float]  # strategy -> avg score
     self_consistency: list[SelfConsistencyResult]
     kappa: KappaResult
