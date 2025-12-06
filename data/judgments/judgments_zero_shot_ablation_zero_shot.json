@@ -1,0 +1,167 @@
+{
+  "judged_at": "2025-12-06T21:20:13.526270+00:00",
+  "llm_provider": "openai",
+  "llm_model": "gpt-4o-mini",
+  "prompt_strategy": "zero_shot",
+  "temperature": 0.0,
+  "run_id": "ablation_zero_shot",
+  "events": [
+    {
+      "event_id": "fort_sumter",
+      "event_name": "Fort Sumter Decision",
+      "judgments": [
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 61,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 80,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 41,
+          "contradictions": [
+            {
+              "type": "factual",
+              "lincoln_claim": "Robert S. Chew left Washington at 6 P.M. on April 6, 1861, and arrived at Charleston, S.C. on April 8, 1861.",
+              "other_claim": "Lincoln was confronted with the decision regarding Fort Sumter shortly after his inauguration.",
+              "explanation": "Charnwood's account implies a broader timeline of decision-making that may not align with the specific timing of Chew's mission as stated by Lincoln."
+            },
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Chew was not authorized to receive any communication in reply from Governor Pickens.",
+              "other_claim": "Lincoln reserved his decision on whether to evacuate Fort Sumter despite the Cabinet's recommendations.",
+              "explanation": "Lincoln's claim suggests a more unilateral approach to the situation, while Charnwood's account indicates a more complex decision-making process involving the Cabinet."
+            },
+            {
+              "type": "omission",
+              "lincoln_claim": "Fort Sumter had neither been surrendered, evacuated, nor attacked at the time of Chew's arrival.",
+              "other_claim": "The Confederate batteries opened fire on Fort Sumter on April 12, 1861.",
+              "explanation": "Lincoln's claim does not acknowledge the impending conflict that Charnwood's account highlights, which could undermine the perception of the situation at the time of Chew's arrival."
+            }
+          ],
+          "reasoning": null
+        }
+      ]
+    },
+    {
+      "event_id": "gettysburg_address",
+      "event_name": "Gettysburg Address",
+      "judgments": [
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 90,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 100,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": null
+        }
+      ]
+    },
+    {
+      "event_id": "second_inaugural",
+      "event_name": "Second Inaugural Address",
+      "judgments": [
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": null
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": null
+        }
+      ]
+    }
+  ]
+}

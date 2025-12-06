@@ -1,0 +1,285 @@
+{
+  "judged_at": "2025-12-06T21:23:07.995324+00:00",
+  "llm_provider": "openai",
+  "llm_model": "gpt-4o-mini",
+  "prompt_strategy": "few_shot",
+  "temperature": 0.0,
+  "run_id": "ablation_few_shot",
+  "events": [
+    {
+      "event_id": "fort_sumter",
+      "event_name": "Fort Sumter Decision",
+      "judgments": [
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 55,
+          "contradictions": [
+            {
+              "type": "factual",
+              "lincoln_claim": "Chew left Washington at 6 P.M. on April 6, 1861, and arrived at Charleston, S.C. on April 8, 1861.",
+              "other_claim": "Lincoln decided to send provisions to Fort Sumter.",
+              "explanation": "Lincoln's claim does not mention the decision to send provisions, which is a significant action in the context of the events."
+            },
+            {
+              "type": "factual",
+              "lincoln_claim": "Fort Sumter had neither been surrendered, evacuated, nor attacked at the time of Chew's arrival.",
+              "other_claim": "On April 12, 1861, General Beauregard opened fire on Fort Sumter.",
+              "explanation": "While Lincoln's claim is accurate for the time of Chew's arrival, Ketcham's timeline indicates an attack occurred shortly after, which is a critical event."
+            }
+          ],
+          "reasoning": "There are factual discrepancies regarding the timeline and actions taken regarding Fort Sumter. Lincoln's claims focus on Chew's arrival and the status of the fort, while Ketcham provides broader context and details about military decisions and the attack, leading to some inconsistencies."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 40,
+          "contradictions": [
+            {
+              "type": "factual",
+              "lincoln_claim": "Chew left Washington at 6 P.M. on April 6, 1861, and arrived at Charleston, S.C. on April 8, 1861.",
+              "other_claim": "Beauregard is notified by Lincoln of purpose to reinforce Sumter.",
+              "explanation": "Lincoln's timeline suggests Chew's arrival was crucial before any notification to Beauregard, which conflicts with Morse's claim of prior notification."
+            },
+            {
+              "type": "factual",
+              "lincoln_claim": "Chew was not authorized to receive any communication in reply from Governor Pickens.",
+              "other_claim": "Beauregard requests surrender of Sumter.",
+              "explanation": "Lincoln's claim implies no communication was to be expected, while Morse indicates a request for surrender was made."
+            },
+            {
+              "type": "factual",
+              "lincoln_claim": "General Beauregard was in charge of military operations in the vicinity of Fort Sumter.",
+              "other_claim": "Anderson appeals to Lincoln.",
+              "explanation": "Morse's account suggests a direct appeal to Lincoln by Anderson, which may imply a different chain of command or communication than Lincoln's claims."
+            }
+          ],
+          "reasoning": "Multiple factual discrepancies exist regarding the timeline and communication between key figures. Lincoln's claims focus on Chew's role and the lack of attack, while Morse's account emphasizes military command and actions taken by Anderson and Beauregard, leading to significant contradictions."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 70,
+          "contradictions": [
+            {
+              "type": "omission",
+              "lincoln_claim": "Chew requested an interview with Governor Pickens upon his arrival in Charleston.",
+              "other_claim": "Browne does not mention Chew's request or the communication process with Governor Pickens.",
+              "explanation": "Browne omits specific details about Chew's actions and the communication with Pickens, which are significant to understanding the context of the decision."
+            }
+          ],
+          "reasoning": "While Lincoln's claims focus on the specifics of Chew's mission and the status of Fort Sumter, Browne's claims provide a broader context about the implications of the attack and Lincoln's policies. There are no direct factual contradictions, but Browne omits key details from Lincoln's account that are relevant to the decision-making process."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 50,
+          "contradictions": [
+            {
+              "type": "factual",
+              "lincoln_claim": "Chew left Washington at 6 P.M. on April 6, 1861, and arrived at Charleston, S.C. on April 8, 1861.",
+              "other_claim": "Lincoln was confronted with the decision regarding Fort Sumter shortly after his inauguration.",
+              "explanation": "Charnwood's account implies a broader context of decision-making that Lincoln's claims do not address."
+            },
+            {
+              "type": "factual",
+              "lincoln_claim": "Fort Sumter had neither been surrendered, evacuated, nor attacked at the time of Chew's arrival.",
+              "other_claim": "The Confederate batteries opened fire on Fort Sumter on April 12, 1861.",
+              "explanation": "While this is not a direct contradiction, it highlights a timeline discrepancy that suggests Lincoln's claims focus on a specific moment rather than the overall situation."
+            }
+          ],
+          "reasoning": "Lincoln's claims focus on specific events surrounding Chew's mission, while Charnwood provides a broader context of the decision-making process regarding Fort Sumter. There are factual discrepancies regarding the timeline and the nature of the decisions being made, leading to a moderate score."
+        }
+      ]
+    },
+    {
+      "event_id": "gettysburg_address",
+      "event_name": "Gettysburg Address",
+      "judgments": [
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 85,
+          "contradictions": [
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln expresses that the living should dedicate themselves to the cause for which the fallen soldiers gave their lives.",
+              "other_claim": "The immediate effect of the Gettysburg Address was not significant.",
+              "explanation": "Ketcham's claim suggests a lack of immediate impact, which contrasts with Lincoln's call for dedication and action."
+            }
+          ],
+          "reasoning": "Most claims align well, particularly regarding the themes of sacrifice and government. The main interpretive difference lies in the perceived immediate impact of the address, which Ketcham downplays compared to Lincoln's call to action."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 85,
+          "contradictions": [
+            {
+              "type": "omission",
+              "lincoln_claim": "Lincoln emphasizes that the ground cannot be consecrated by words, as the brave men who fought there have already hallowed it.",
+              "other_claim": "Morse does not mention Lincoln's emphasis on the ground being hallowed by the soldiers' sacrifice.",
+              "explanation": "Morse omits Lincoln's specific point about the limitations of words in consecrating the ground."
+            },
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln expresses that the living should dedicate themselves to the cause for which the fallen soldiers gave their lives.",
+              "other_claim": "Morse states that the living should be dedicated to the unfinished work of those who fought at Gettysburg.",
+              "explanation": "Different phrasing may imply a slight interpretive difference in the focus of dedication."
+            }
+          ],
+          "reasoning": "Overall, the core themes and messages of Lincoln's address align closely with Morse's account. However, there are notable omissions and slight interpretive differences regarding the emphasis on the consecration of the ground and the dedication of the living."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 85,
+          "contradictions": [
+            {
+              "type": "omission",
+              "lincoln_claim": "Lincoln emphasizes that the ground cannot be consecrated by words, as the brave men who fought there have already hallowed it.",
+              "other_claim": "Browne does not mention Lincoln's emphasis on the ground being hallowed by the soldiers' sacrifice.",
+              "explanation": "Browne's account omits Lincoln's specific assertion about the consecration of the ground."
+            },
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln expresses that the living should dedicate themselves to the cause for which the fallen soldiers gave their lives.",
+              "other_claim": "Browne states that the living should be dedicated to the unfinished work of those who fought at Gettysburg.",
+              "explanation": "Different phrasing and emphasis on 'unfinished work' versus 'cause for which they gave their lives.'"
+            }
+          ],
+          "reasoning": "Overall, the accounts align well, particularly on the themes of liberty, equality, and the call for a new birth of freedom. However, there are notable omissions and interpretive differences regarding the consecration of the ground and the dedication of the living, which prevent a perfect score."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 75,
+          "contradictions": [
+            {
+              "type": "omission",
+              "lincoln_claim": "Lincoln emphasizes that the ground cannot be consecrated by words, as the brave men who fought there have already hallowed it.",
+              "other_claim": "Charnwood's account emphasizes dedicating the ground to the soldiers who died.",
+              "explanation": "Charnwood's account omits Lincoln's assertion that words alone cannot consecrate the ground, which is a significant aspect of Lincoln's message."
+            },
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln expresses that the living should dedicate themselves to the cause for which the fallen soldiers gave their lives.",
+              "other_claim": "Charnwood's account focuses on the enduring nature of Lincoln's speech rather than the call to action for the living.",
+              "explanation": "Charnwood's interpretation shifts focus from the living's dedication to the speech's potential impact."
+            }
+          ],
+          "reasoning": "While both accounts align on the general themes and key phrases of the Gettysburg Address, Charnwood's account omits some of Lincoln's specific assertions about the consecration of the ground and the call to action for the living, leading to interpretive differences."
+        }
+      ]
+    },
+    {
+      "event_id": "second_inaugural",
+      "event_name": "Second Inaugural Address",
+      "judgments": [
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 85,
+          "contradictions": [
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln expressed hope for a lasting peace among all nations.",
+              "other_claim": null,
+              "explanation": "While both express hope for peace, Ketcham's interpretation emphasizes healing specifically after the war, which may imply a more immediate context than Lincoln's broader hope for lasting peace."
+            },
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln noted that during his first inauguration, there was an impending civil war that all sought to avert.",
+              "other_claim": null,
+              "explanation": "Ketcham's claim suggests a lack of acknowledgment of the changing context of the war's end, which contrasts with Lincoln's reflection on the past and the ongoing conflict."
+            }
+          ],
+          "reasoning": "Most factual claims align, particularly the date of the address. However, there are interpretive differences regarding the implications of Lincoln's message and the context of his policies, leading to a score reflecting strong alignment with some notable interpretive variances."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 85,
+          "contradictions": [
+            {
+              "type": "factual",
+              "lincoln_claim": "Abraham Lincoln delivered his Second Inaugural Address on March 4, 1865.",
+              "other_claim": "The second inaugural address was delivered from the eastern portico of the Capitol.",
+              "explanation": "Morse does not provide a date, but the location is consistent with Lincoln's claim."
+            },
+            {
+              "type": "omission",
+              "lincoln_claim": "Lincoln revised the ending of the address by pasting a slip of paper over the last two lines and writing the revised version on it.",
+              "other_claim": "Morse does not mention the revision process.",
+              "explanation": "Morse omits details about the manuscript's revision, which is significant to Lincoln's account."
+            }
+          ],
+          "reasoning": "Most claims align well, particularly regarding the themes of the address and the acknowledgment of slavery's role in the war. However, there are minor factual discrepancies regarding the date and omissions about the manuscript's revision process."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 85,
+          "contradictions": [],
+          "reasoning": "Both accounts align well on the date and themes of the address. Browne adds context and characterization that Lincoln does not explicitly mention, but these do not contradict Lincoln's claims. The essence of the address regarding slavery and peace is consistent across both accounts."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 75,
+          "contradictions": [
+            {
+              "type": "omission",
+              "lincoln_claim": "Lincoln expressed hope for a lasting peace among all nations.",
+              "other_claim": "Charnwood emphasizes the need to bind up the nation's wounds and achieve lasting peace.",
+              "explanation": "Charnwood's account does not mention Lincoln's specific hope for peace among all nations, focusing instead on national reconciliation."
+            },
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln noted that during his first inauguration, there was an impending civil war that all sought to avert.",
+              "other_claim": "Charnwood states that Lincoln believed the judgments of the Lord regarding the war were true and righteous.",
+              "explanation": "Charnwood's interpretation suggests a more religious framing of the war's cause, which is not explicitly stated in Lincoln's claims."
+            }
+          ],
+          "reasoning": "Both accounts agree on the date and some themes of the address, but Charnwood adds interpretive elements and emphasizes religious language that Lincoln does not explicitly mention. There are also omissions regarding Lincoln's specific hopes for peace among nations."
+        }
+      ]
+    }
+  ]
+}

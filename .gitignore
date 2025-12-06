@@ -1,6 +1,5 @@
 # local utilities
 _util_*
-data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

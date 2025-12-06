@@ -1,0 +1,1973 @@
+{
+  "extracted_at": "2025-12-06T21:19:55.337583+00:00",
+  "llm_provider": "openai",
+  "llm_model": "gpt-4o-mini",
+  "prompt_strategy": "cot",
+  "documents": [
+    {
+      "document_id": "gutenberg_6812",
+      "document_title": "Abraham Lincoln: a History — Volume 01 by John G. Nicolay and John Hay",
+      "author": "Nicolay, John G. (John George), 1832-1901",
+      "source": "gutenberg",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "gutenberg_6812",
+          "author": "Nicolay, John G. (John George), 1832-1901",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 53,
+              "text_preview": "f the historic Legislature of 1836 but a load of debt which\r\ncrippled for many years the energies of the people, a few miles of\r\nembankments which the grass hastened to cover, and a few abutments\r\nwhi",
+              "keyword_matches": [
+                "election",
+                "november",
+                "votes",
+                "springfield",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 57,
+              "text_preview": "Mr. Douglas\r\nin rough-and-tumble debate in various towns of the State as they\r\nfollowed Judge Treat on his circuit. If we may trust the willing\r\ntestimony of his old associates, Lincoln had no difficu",
+              "keyword_matches": [
+                "election",
+                "november",
+                "votes",
+                "returns",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 115,
+              "text_preview": "and an atrocious calumny against this\r\nSenate, desecrated the pulpit, and prostituted the sacred desk to the\r\nmiserable and corrupting influence of party politics.\" All his\r\nnewspapers and partisans t",
+              "keyword_matches": [
+                "election",
+                "november",
+                "votes",
+                "springfield",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 130,
+              "text_preview": "appointment of election\r\nofficers, census-takers, justices of the peace, and constables, he was\r\ncareful to make his selections from both factions as fairly as\r\npossible, excepting that, as a greater ",
+              "keyword_matches": [
+                "election",
+                "november",
+                "votes",
+                "returns",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 1,
+              "text_preview": "ry.\" Interspersed throughout the work in their proper connection\r\nand sequence, and containing some of the most important of Mr.\r\nLincoln's letters, they lend breadth and unity to the historical\r\ndram",
+              "keyword_matches": [
+                "election",
+                "1860"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "gutenberg_6812",
+          "author": "Nicolay, John G. (John George), 1832-1901",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 33,
+              "text_preview": "r\r\ndinner, Lincoln entertained them, and they entertained us for a couple\r\nof hours very amusingly.\" Kindly human companionship was a luxury in\r\nthat green wilderness, and was readily appreciated and ",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "anderson"
+              ]
+            },
+            {
+              "chunk_index": 0,
+              "text_preview": "Produced by Robert Nield, Tom Allen, David Moynihan, Charles Franks\r\nand the Online Distributed Proofreading Team.\r\n\r\n\r\n\r\n\r\n\r\nABRAHAM LINCOLN: A HISTORY\r\nBY JOHN G. NICOLAY AND JOHN HAY\r\n\r\nVOLUME ONE\r",
+              "keyword_matches": [
+                "sumter"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "gutenberg_6812",
+          "author": "Nicolay, John G. (John George), 1832-1901",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 55,
+              "text_preview": "illustration of the\r\ncharacter of discussion then prevalent. We will give it in Mr. Hay's\r\nwords: \"The custom of public political debate, while it was sharp and\r\nacrimonious, also engendered a spirit ",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "gutenberg_6812",
+          "author": "Nicolay, John G. (John George), 1832-1901",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 35,
+              "text_preview": "all\r\nWhigs should be whipped out of office like dogs out of a meat-house\";\r\nthe force of south-western simile could no further go. But the great\r\npopularity of Reynolds and the adroit management of th",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 55,
+              "text_preview": "illustration of the\r\ncharacter of discussion then prevalent. We will give it in Mr. Hay's\r\nwords: \"The custom of public political debate, while it was sharp and\r\nacrimonious, also engendered a spirit ",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 108,
+              "text_preview": "also on the general ground that it contained but few white\r\ninhabitants, and its organization was therefore a useless expense.\r\nHoward, of Texas, made the most strenuous opposition, urging that\r\nsince",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 109,
+              "text_preview": "f March was breaking, an unwilling\r\nSenate laid the bill on the table by a vote of twenty-three to\r\nseventeen, here, as in the House, the West being for and the South\r\nagainst the measure. It is not p",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "gutenberg_6812",
+          "author": "Nicolay, John G. (John George), 1832-1901",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 48,
+              "text_preview": "ue they had not quite escaped, was on\r\nthe people of Illinois. They were strong enough to rise once in their\r\nmight and say they would not have slavery among them. But in the petty\r\ndetails of every d",
+              "keyword_matches": [
+                "ford",
+                "shot",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 0,
+              "text_preview": "Produced by Robert Nield, Tom Allen, David Moynihan, Charles Franks\r\nand the Online Distributed Proofreading Team.\r\n\r\n\r\n\r\n\r\n\r\nABRAHAM LINCOLN: A HISTORY\r\nBY JOHN G. NICOLAY AND JOHN HAY\r\n\r\nVOLUME ONE\r",
+              "keyword_matches": [
+                "assassin",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 4,
+              "text_preview": "nded from well-known houses\r\nin the older States or in England, which, by passing through one or\r\ntwo generations of ancestors who could not read or write, have lost\r\ntheir continuity with the past as",
+              "keyword_matches": [
+                "ford",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 14,
+              "text_preview": "shington.\" These were the best, and these he read over and\r\nover till he knew them almost by heart. But his voracity for anything\r\nprinted was insatiable. He would sit in the twilight and read a\r\ndict",
+              "keyword_matches": [
+                "ford",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 29,
+              "text_preview": "ons of the science he had\r\nacquired and the ease with which it yielded all there was of it to the\r\nstudent. But it seemed no slight achievement to the New Salemites, and\r\ncontributed not a little to t",
+              "keyword_matches": [
+                "ford",
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "gutenberg_6811",
+      "document_title": "The Life of Abraham Lincoln by Henry Ketcham",
+      "author": "Ketcham, Henry",
+      "source": "gutenberg",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "gutenberg_6811",
+          "author": "Ketcham, Henry",
+          "claims": [
+            "On Election Night 1860, Lincoln was nominated as the Republican candidate for President.",
+            "Lincoln received 231-1/2 votes on the third ballot of the Republican convention, which was not announced.",
+            "An Ohio delegate announced a change of four Ohio votes from Chase to Lincoln, leading to a surge of support for Lincoln.",
+            "The crowd at the convention erupted in joy upon the announcement of Lincoln's nomination.",
+            "Lincoln was in Springfield during the convention and received the news of his nomination via telegram.",
+            "The news of Lincoln's nomination spread quickly, leading to celebrations in Chicago and beyond.",
+            "Lincoln was officially elected President of the United States on February 13, 1861, after receiving a majority of the electoral votes."
+          ],
+          "temporal_details": {
+            "date": "February 13, 1861",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 39,
+              "text_preview": "e\r\noffered by their states, the most important being Bates of Missouri.\r\nAfter the seconding of the nominations the convention proceeded to the\r\nballot. There were 465 votes, and 233 were necessary fo",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "telegraph",
+                "springfield",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 34,
+              "text_preview": "to get out of the way.\r\n\r\nThe pro-slavery men, after the farce of a pretended vote, declared the\r\nLecompton constitution adopted. The governor at that time was Walker,\r\nof Mississippi, who had been ap",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "springfield",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 37,
+              "text_preview": "of\r\ndebating, the feeling of antagonism rising, continually higher, the\r\ncrisis came. The southern delegates withdrew from the convention and\r\nappointed a convention of their own to be held in Richmon",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "telegraph",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 83,
+              "text_preview": "yal people as\r\nfollows:\r\n\r\n\"We are in civil war. In such cases there always is a main question;\r\nbut in this case that question is a perplexing compound--Union and\r\nslavery. It thus becomes a question",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "elected",
+                "president-elect"
+              ]
+            },
+            {
+              "chunk_index": 42,
+              "text_preview": "lar votes,\r\nand seventy-two electoral votes. Bell received 590,631 popular votes,\r\nand thirty-nine electoral votes.\r\n\r\nLincoln carried all the free states, excepting that in New Jersey the\r\nelectoral ",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "elected"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "gutenberg_6811",
+          "author": "Ketcham, Henry",
+          "claims": [
+            "South Carolina was the first state to secede.",
+            "Fort Sumter commanded Charleston Harbor and became the focus of national interest.",
+            "Major Anderson decided to abandon Fort Moultrie and defend Fort Sumter.",
+            "Lincoln found the government in a chaotic condition upon taking office.",
+            "Lincoln's purpose was to hold the remaining slave states in the Union.",
+            "Lincoln promised to hold the United States forts and not to be the aggressor.",
+            "Major Anderson was beleaguered in Fort Sumter with 76 combatants and 128 total men.",
+            "Lincoln decided to send provisions to Fort Sumter.",
+            "General Beauregard commanded the military forces and sent a summons to Major Anderson to surrender.",
+            "On April 12, 1861, General Beauregard opened fire on Fort Sumter, marking the beginning of the war.",
+            "The garrison of Fort Sumter surrendered on April 14, 1861.",
+            "The fall of Fort Sumter was hailed with delight in the South and caused a storm of indignation in the North.",
+            "Lincoln had been in office less than six weeks at the time of the fall of Fort Sumter."
+          ],
+          "temporal_details": {
+            "date": "April 12, 1861",
+            "time": "3:30 P.M."
+          },
+          "tone": "Sympathetic",
+          "source_chunks": [
+            {
+              "chunk_index": 53,
+              "text_preview": ", Slavery Sectional.\" It may easily be guessed that\r\nthis highly incensed the slave power and the fire-eaters never outgrew\r\ntheir hatred of the Massachusetts senator.\r\n\r\nIn May, 1856, he delivered an",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston",
+                "anderson",
+                "pickens"
+              ]
+            },
+            {
+              "chunk_index": 54,
+              "text_preview": "d was nearly out of provisions. Lincoln at last concluded\r\nto \"send bread to Sumter,\"--surely not a hostile act. Owing to\r\ncomplications which he inherited from Buchanan's administration he had\r\ngiven",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston",
+                "anderson",
+                "pickens"
+              ]
+            },
+            {
+              "chunk_index": 52,
+              "text_preview": "ddle with the affairs of his associates. He did\r\nnot entirely approve of the cabinet meetings and served notice that he\r\nwould attend only upon special summons of the President.\r\n\r\nThis condition reac",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "pickens"
+              ]
+            },
+            {
+              "chunk_index": 57,
+              "text_preview": "ral stairway, he carried the rebel flag in his hand.\r\nThe proprietor of the hotel came out from a place of concealment,\r\nplaced his double-barreled shot-gun nearly against Ellsworth's body and\r\nfired.",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston"
+              ]
+            },
+            {
+              "chunk_index": 59,
+              "text_preview": "e fact\r\nthat the war was here to stay months and years.\r\n\r\nIt is a curious trait of human nature that people are not willing to\r\naccept a defeat simply. The mind insists on explaining the particular\r\n",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "gutenberg_6811",
+          "author": "Ketcham, Henry",
+          "claims": [
+            "The Gettysburg Address was delivered by Abraham Lincoln at the dedication of the Gettysburg cemetery on November 19, 1863.",
+            "Lincoln's part in the event was to pronounce the formal words of dedication, while Edward Everett was the main orator.",
+            "Lincoln wrote the Gettysburg Address on a sheet of foolscap paper during busy moments leading up to the event.",
+            "The address is described as prose in form but poetic in effect, with many rhythmical sentences.",
+            "The audience was impressed by Lincoln's gravity and solemnity during the address, with many moved to tears.",
+            "The Gettysburg Address begins with the phrase 'Fourscore and seven years ago' and emphasizes the founding principles of the nation.",
+            "Lincoln's speech reflects on the sacrifices made by soldiers and calls for dedication to the unfinished work of the nation.",
+            "The speech concludes with a vision of a government 'of the people, by the people, for the people' that shall not perish from the earth.",
+            "The immediate effect of the Gettysburg Address was not significant."
+          ],
+          "temporal_details": {
+            "date": "November 19, 1863",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 81,
+              "text_preview": "his doctrine along political\r\nlines, he would name the following: The House-divided-against-itself\r\nspeech, delivered at Springfield June 16, 1858. The underlying thought\r\nof this was that the battle ",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery",
+                "dedication",
+                "consecrate",
+                "fourscore"
+              ]
+            },
+            {
+              "chunk_index": 14,
+              "text_preview": "ight years in the legislature and one term in\r\ncongress. He had a good understanding of politics. He was never a time-\r\nserver, and he had done nothing unwise. He knew how to win votes and he\r\nknew wh",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            },
+            {
+              "chunk_index": 73,
+              "text_preview": "for you to know that there are some\r\nthings in regard to which I am not satisfied with you. I believe you to\r\nbe a brave and skilful soldier, which of course I like. I also believe\r\nthat you do not mi",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            },
+            {
+              "chunk_index": 74,
+              "text_preview": "crush the rebellion.\r\n\r\nHere were three men, Burnside, Hooker, and Meade, all good men and\r\ngallant soldiers. But not one of them was able successfully to command\r\nso large an army, or to do the thing",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            },
+            {
+              "chunk_index": 75,
+              "text_preview": "e\r\nbattle then and there. This battle-field was some distance to the\r\nnorth, that is to say, in advance of Pipe Creek, the location selected\r\nby Meade. But a conflict between a considerable force on e",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "gutenberg_6811",
+          "author": "Ketcham, Henry",
+          "claims": [
+            "The Second Inaugural Address was delivered on March 4, 1865.",
+            "In the Second Inaugural Address, Lincoln had no new policy to proclaim and continued the policy of the past four years.",
+            "The end of the Civil War was almost in sight at the time of the Second Inaugural Address.",
+            "The Second Inaugural Address is described as having an intangible spirit that gives it marvelous grandeur.",
+            "Lincoln is compared to the prophet Isaiah in terms of his statesmanship and foresight in the Second Inaugural Address.",
+            "The closing paragraph of the Second Inaugural Address expresses a hope for peace and healing after the war."
+          ],
+          "temporal_details": {
+            "date": "March 4, 1865",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 81,
+              "text_preview": "his doctrine along political\r\nlines, he would name the following: The House-divided-against-itself\r\nspeech, delivered at Springfield June 16, 1858. The underlying thought\r\nof this was that the battle ",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 91,
+              "text_preview": "Tad would\r\nnot come. Only Robert, a recent graduate of Harvard and at the time a\r\nmember of Grant's staff, was there to represent the family.\r\n\r\nAfter the service, which was brief and simple, the body",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 45,
+              "text_preview": "ed to his\r\nrecord. His opinions had been fully expressed in the debates with\r\nDouglas and in other speeches. There were four important points as to\r\nhis future policy. The Union should be preserved, t",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 47,
+              "text_preview": "bout to say that I would rather be _assassinated\r\non this spot_ than surrender it.\"\r\n\r\nAnd finally: \"I may have said something indiscreet. But I have said\r\nnothing but what I am willing to live by, an",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 48,
+              "text_preview": "where no risk was necessary.\"\r\n\r\nIt is positively asserted by Lamon, who knew whereof he spake, that\r\nthere was no time, from the moment of leaving Springfield to his death,\r\nwhen Lincoln was free fro",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "gutenberg_6811",
+          "author": "Ketcham, Henry",
+          "claims": [
+            "Abraham Lincoln was assassinated at Ford's Theatre.",
+            "John Wilkes Booth was the assassin who killed Lincoln.",
+            "Booth broke his leg or ankle while escaping from the theater.",
+            "Lincoln was carried out into the open air after being shot.",
+            "Lincoln died in a small room of a common hotel on April 15th.",
+            "The wound Lincoln sustained was mortal.",
+            "The band of assassins, led by Booth, planned to murder other officials.",
+            "Seward was attacked by another assassin but survived.",
+            "The news of Lincoln's assassination was met with great sorrow and indignation.",
+            "Many believed that Lincoln's death was a loss for the South as he was seen as their best friend."
+          ],
+          "temporal_details": {
+            "date": "April 15th",
+            "time": "twenty minutes after seven o'clock"
+          },
+          "tone": "Sympathetic",
+          "source_chunks": [
+            {
+              "chunk_index": 89,
+              "text_preview": "man, but his spur caught in a flag with which the box\r\nwas draped, so that he did not strike quite squarely on his feet. The\r\nresult was that he broke his leg or ankle. But gathering himself up, he\r\nf",
+              "keyword_matches": [
+                "theater",
+                "booth",
+                "assassin",
+                "shot",
+                "april 15",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 88,
+              "text_preview": "an end, the stars and stripes were floating over\r\nSumter, the Union was saved, and slavery was doomed. There came back\r\ninto his eyes the light that had long been absent. Those who were about\r\nhim sai",
+              "keyword_matches": [
+                "theater",
+                "booth",
+                "shot",
+                "pistol",
+                "wilkes",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 57,
+              "text_preview": "ral stairway, he carried the rebel flag in his hand.\r\nThe proprietor of the hotel came out from a place of concealment,\r\nplaced his double-barreled shot-gun nearly against Ellsworth's body and\r\nfired.",
+              "keyword_matches": [
+                "theater",
+                "assassin",
+                "shot",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 49,
+              "text_preview": "usily as the time for\r\ninauguration approached.\r\n\r\nOf course anxiety and even excitement were not unknown. One instance is\r\nenough to relate here. Arrangements were about concluded for the\r\ncabinet ap",
+              "keyword_matches": [
+                "ford",
+                "assassin"
+              ]
+            },
+            {
+              "chunk_index": 74,
+              "text_preview": "crush the rebellion.\r\n\r\nHere were three men, Burnside, Hooker, and Meade, all good men and\r\ngallant soldiers. But not one of them was able successfully to command\r\nso large an army, or to do the thing",
+              "keyword_matches": [
+                "ford",
+                "theater"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "gutenberg_12801",
+      "document_title": "Abraham Lincoln, Volume II by Jr. John T. Morse",
+      "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+      "source": "gutenberg",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "gutenberg_12801",
+          "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+          "claims": [
+            "Lincoln was elected in 1860.",
+            "On Election Night 1860, Lincoln received news of his election throughout the day.",
+            "Lincoln felt tired after the excitement of Election Night and went home to rest.",
+            "While resting, Lincoln experienced a visual illusion where he saw two distinct images of his face in a mirror.",
+            "Lincoln's wife interpreted the paleness of one of the faces he saw as a sign that he would not survive his second term."
+          ],
+          "temporal_details": {
+            "date": "1860",
+            "time": "Election Night"
+          },
+          "tone": "Sympathetic",
+          "source_chunks": [
+            {
+              "chunk_index": 110,
+              "text_preview": "with assassination story, see vol. i.\r\n\r\nLane, James H.,\r\n  senator from Kansas, see vol. i.\r\n\r\nLane, Joseph,\r\n  nominated for Vice-President on Breckinridge ticket in 1860, see vol. i.\r\n\r\nLee, Robert",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "springfield",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 97,
+              "text_preview": "ement in his nature, was\r\nnarrated by him as follows:--\r\n\r\n\"It was just after my election in 1860, when the news had been coming in\r\nthick and fast all day, and there had been a great 'hurrah boys!' s",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "springfield",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 109,
+              "text_preview": "David,\r\n  asked by Lincoln to aid Fremont, see vol. i.;\r\n  succeeds Fremont;\r\n  proclaims martial law and abolishes slavery in Georgia, Florida, and\r\n      South Carolina, see vol. ii.;\r\n  his order r",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "telegraph"
+              ]
+            },
+            {
+              "chunk_index": 102,
+              "text_preview": "vol. ii.;\r\n  complains of the Alabama.\r\n\r\nAdams, Charles F., Jr.,\r\n  enters Richmond with negro cavalry regiment, see vol. ii.\r\n\r\nAdams, John Quincy,\r\n  in Congress with Lincoln, see vol. i.\r\n\r\nAlabam",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 103,
+              "text_preview": "trality policy explained in annual message;\r\n  both pro-slavery and Unionist, see vol. ii.;\r\n  desire to conciliate controls Lincoln's policy;\r\n  with their slave property guaranteed by North;\r\n  oppo",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "elected"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "gutenberg_12801",
+          "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+          "claims": [
+            "Anderson, Robert commands at Fort Moultrie in 1860.",
+            "Anderson moves forces to Sumter.",
+            "Anderson asks instructions in vain.",
+            "Anderson appeals to Lincoln.",
+            "Anderson refuses to surrender Sumter.",
+            "Bates, Edward opposes reinforcing Sumter.",
+            "Beauregard, General P.G.T. commands at Charleston.",
+            "Beauregard is notified by Lincoln of purpose to reinforce Sumter.",
+            "Beauregard requests surrender of Sumter.",
+            "Beauregard commands bombardment of Fort Sumter."
+          ],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 102,
+              "text_preview": "vol. ii.;\r\n  complains of the Alabama.\r\n\r\nAdams, Charles F., Jr.,\r\n  enters Richmond with negro cavalry regiment, see vol. ii.\r\n\r\nAdams, John Quincy,\r\n  in Congress with Lincoln, see vol. i.\r\n\r\nAlabam",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston",
+                "anderson",
+                "bombardment"
+              ]
+            },
+            {
+              "chunk_index": 101,
+              "text_preview": "his life and in some ways it may be that he expressed\r\nthem in their uglier forms, but generally he displayed them in their\r\nnoblest and most beautiful developments; yet, for worse or for better,\r\none",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "anderson"
+              ]
+            },
+            {
+              "chunk_index": 111,
+              "text_preview": "ention for senatorship;\r\n  damaged by Whig support of Douglas;\r\n  prepares letter of acceptance;\r\n  reads paragraph on situation to friends;\r\n  alarms advisers by his plainness of utterance;\r\n  insist",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "pickens"
+              ]
+            },
+            {
+              "chunk_index": 117,
+              "text_preview": "n to put emancipation plank in Republican platform,\r\n      see vol. ii.\r\n\r\nMorton, Governor Oliver P.,\r\n  harassed by Copperheads, see vol. ii.;\r\n  tries to alarm Lincoln.\r\n\r\nMudd, Samuel,\r\n  accompli",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "pickens"
+              ]
+            },
+            {
+              "chunk_index": 103,
+              "text_preview": "trality policy explained in annual message;\r\n  both pro-slavery and Unionist, see vol. ii.;\r\n  desire to conciliate controls Lincoln's policy;\r\n  with their slave property guaranteed by North;\r\n  oppo",
+              "keyword_matches": [
+                "sumter",
+                "fort"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "gutenberg_12801",
+          "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+          "claims": [
+            "The Gettysburg Address was delivered by President Abraham Lincoln on November 19, 1863.",
+            "The occasion for the Gettysburg Address was the consecration of the national military cemetery at Gettysburg.",
+            "Edward Everett was the main speaker at the event, and Lincoln was invited to give a few appropriate remarks afterward.",
+            "Lincoln composed the Gettysburg Address while traveling from the White House to the battlefield.",
+            "The Gettysburg Address emphasizes the principles of liberty and equality, stating that the nation was conceived in liberty and dedicated to the proposition that all men are created equal.",
+            "Lincoln stated that the living should be dedicated to the unfinished work of those who fought at Gettysburg.",
+            "The address concludes with a call for a new birth of freedom and a government of the people, by the people, for the people."
+          ],
+          "temporal_details": {
+            "date": "November 19, 1863",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 61,
+              "text_preview": "onservatives\r\nand traitors had been buried together, and begged him not to exhume\r\nthem, since they would \"smell worse than Lazarus did after he had been\r\nburied three days.\" Apparently he ranked Sewa",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery",
+                "consecrate",
+                "fourscore"
+              ]
+            },
+            {
+              "chunk_index": 42,
+              "text_preview": "words of kindness, of modesty, and with one of his noble appeals\r\nfor subjection of personal irritation and for union of effort on behalf\r\nof the country:--\r\n\r\n\"I believe you are aware that, since you",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery"
+              ]
+            },
+            {
+              "chunk_index": 33,
+              "text_preview": "had become a nation. Such a presentation of \"one-man-power\"\r\ncertainly stood out in startling relief upon the background of popular\r\ngovernment and the great free republican system of the world!\r\n\r\nOn",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            },
+            {
+              "chunk_index": 43,
+              "text_preview": "n July 10, catch up with the retreating\r\narmy, which was delayed at Williamsport on the north bank of the river\r\nby the unusually high water. He camped close by it, and received\r\nstrenuous telegrams u",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            },
+            {
+              "chunk_index": 48,
+              "text_preview": "ollowed by a handsome advance by Sheridan, on\r\nSherman's right, so turned the Confederate position as to make it\r\nuntenable.\r\n\r\nThe Northerners were exasperated to find, among the Confederate troops\r\n",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "gutenberg_12801",
+          "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+          "claims": [
+            "The second inaugural address was delivered from the eastern portico of the Capitol.",
+            "Lincoln stated that there was less occasion for an extended address than there was at his first inauguration.",
+            "Lincoln expressed that the progress of the war was well known and hoped for a satisfactory future.",
+            "He reflected on the anxiety surrounding the impending civil war at his first inauguration and the current state of the nation.",
+            "Lincoln noted that one eighth of the population were colored slaves localized in the southern part of the Union.",
+            "He acknowledged that the issue of slavery was somehow the cause of the war.",
+            "Lincoln believed that neither party anticipated the magnitude or duration of the war.",
+            "He suggested that the cause of the conflict might cease with or even before the conflict itself should cease."
+          ],
+          "temporal_details": {
+            "date": "March 4",
+            "time": null
+          },
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 88,
+              "text_preview": "the rebel chief would gladly come back to the old Union if\r\nthey could be fairly received, although at this conference they had felt\r\ncompelled by the exigencies of an official situation and their\r\nre",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural"
+              ]
+            },
+            {
+              "chunk_index": 114,
+              "text_preview": "roy against;\r\n  refuses Chase's resignation;\r\n  renominated by Ohio and Rhode Island Republicans;\r\n  opposition to, collapses;\r\n  relations with Chase strained;\r\n  accepts Chase's resignation;\r\n  nomi",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural"
+              ]
+            },
+            {
+              "chunk_index": 0,
+              "text_preview": "[Illustration: Stephen A. Douglas]\r\n\r\n\r\nAmerican Statesmen\r\n\r\nSTANDARD LIBRARY EDITION\r\n\r\n\r\n[Illustration: _The Home of Abraham Lincoln_]\r\n\r\n       *       *       *       *       *\r\n\r\n\r\n\r\n\r\n\r\n\r\nABRAH",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 1,
+              "text_preview": "ntestants; for had all the pro-slavery men in the Border\r\nStates gone over in a mass to the South early in the war, they might\r\nhave settled the matter against the North in short order. The task of\r\nh",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 61,
+              "text_preview": "onservatives\r\nand traitors had been buried together, and begged him not to exhume\r\nthem, since they would \"smell worse than Lazarus did after he had been\r\nburied three days.\" Apparently he ranked Sewa",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "gutenberg_12801",
+          "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+          "claims": [
+            "The assassination of President Lincoln occurred at Ford's Theatre.",
+            "Lincoln was shot at the back of the head on the left side.",
+            "The bullet passed through Lincoln's brain and stopped just short of his left eye.",
+            "Lincoln was carried to a room in a house opposite the theatre after being shot.",
+            "Lincoln died at twenty-two minutes after seven o'clock in the morning following the assassination.",
+            "John Wilkes Booth was the assassin who shot Lincoln.",
+            "Booth shouted 'Sic semper tyrannis!' after jumping onto the stage.",
+            "Booth was recognized as an actor of melodramatic characters.",
+            "Booth was aided in his escape by Edward Spangler, an employee at the theatre.",
+            "Booth's leg was broken when he fell onto the stage after the assassination.",
+            "At the same time as Lincoln's assassination, an assault was made on Secretary Seward.",
+            "The conspiracy to assassinate Lincoln involved multiple active members and had been planned for months.",
+            "Seven men and one woman were charged with being involved in the conspiracy after the assassination.",
+            "The military commission found the accused guilty of conspiracy related to Lincoln's assassination."
+          ],
+          "temporal_details": {
+            "date": "April 14, 1865",
+            "time": "around 10 o'clock in the evening"
+          },
+          "tone": "Critical",
+          "source_chunks": [
+            {
+              "chunk_index": 98,
+              "text_preview": "r have\r\noccurred at all. Others, however, not less religiously disposed, were\r\nimpressed by the coincidence that the fatal shot was fired upon that day\r\nwhich the Christian world had agreed to adopt a",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "booth",
+                "assassin",
+                "shot",
+                "pistol",
+                "wilkes"
+              ]
+            },
+            {
+              "chunk_index": 99,
+              "text_preview": "irreparable hurt to those whom he had\r\nfoolishly fancied that he was going to serve conspicuously. It was a\r\ncurious and significant fact that there was among the people of the\r\nNorth a considerable b",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "booth",
+                "assassin",
+                "shot"
+              ]
+            },
+            {
+              "chunk_index": 97,
+              "text_preview": "ement in his nature, was\r\nnarrated by him as follows:--\r\n\r\n\"It was just after my election in 1860, when the news had been coming in\r\nthick and fast all day, and there had been a great 'hurrah boys!' s",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "assassin",
+                "shot",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 107,
+              "text_preview": "i.\r\n\r\nFell, J.W.,\r\n  asks Lincoln concerning his ancestry, see vol. i.;\r\n  urges Lincoln to seek presidential nomination.\r\n\r\nFelton, Samuel M.,\r\n  fears plot to assassinate Lincoln, see vol. i.;\r\n  ha",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "assassin"
+              ]
+            },
+            {
+              "chunk_index": 102,
+              "text_preview": "vol. ii.;\r\n  complains of the Alabama.\r\n\r\nAdams, Charles F., Jr.,\r\n  enters Richmond with negro cavalry regiment, see vol. ii.\r\n\r\nAdams, John Quincy,\r\n  in Congress with Lincoln, see vol. i.\r\n\r\nAlabam",
+              "keyword_matches": [
+                "booth",
+                "assassin",
+                "wilkes",
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "gutenberg_14004",
+      "document_title": "The Every-day Life of Abraham Lincoln by Francis F. Browne",
+      "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+      "source": "gutenberg",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "gutenberg_14004",
+          "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+          "claims": [
+            "On November 6, 1860, Abraham Lincoln was elected President of the United States.",
+            "Lincoln received a substantial majority of the electoral vote, totaling 180 to 123.",
+            "Lincoln's popular vote was approximately 930,170 against him, indicating nearly a million votes more against him than for him.",
+            "Fifteen states did not give Lincoln any electoral votes, and in nine states, he received no popular votes.",
+            "The election was determined largely on sectional lines, with slavery as the primary issue.",
+            "Lincoln's election was aided by an unexpected division in the Democratic party."
+          ],
+          "temporal_details": {
+            "date": "November 6, 1860",
+            "time": null
+          },
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 99,
+              "text_preview": "urpass\r\nthe simple dignity and grace of Lincoln's reply:\r\n\r\n     SPRINGFIELD, ILL., JUNE 28, 1860.\r\n\r\n     Please accept my thanks for the honor done me by your kind letter\r\n     of the 16th. I apprec",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "november",
+                "springfield",
+                "elected",
+                "president-elect"
+              ]
+            },
+            {
+              "chunk_index": 192,
+              "text_preview": "plore the\r\n     interposition of the Almighty Hand to heal the wounds of the\r\n     nation, and to restore it, as soon as may be consistent with the\r\n     divine purposes, to the full enjoyment of peac",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "november",
+                "returns",
+                "telegraph",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 3,
+              "text_preview": "litical Encounters--A Tilt\r\n     with Douglas--Lincoln Facing a Mob--His Physical Courage--Lincoln\r\n     as Duellist--The Affair with General Shields--An Eye-Witness'\r\n     Account of the Duel--Courts",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "springfield",
+                "elected",
+                "president-elect"
+              ]
+            },
+            {
+              "chunk_index": 67,
+              "text_preview": "en the party was united; but it contained quite a number\r\nof aspiring Whig orators, and there was a kind of understanding between\r\nthem that no one who attained the position of Representative in Congr",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes",
+                "telegraph",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 18,
+              "text_preview": "o fill the office, it occurred to\r\none of the judges that perhaps the tall stranger possessed the needful\r\nqualifications. He thereupon accosted him, and asked if he could write.\r\nHe replied, 'Yes, a ",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "springfield",
+                "elected"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "gutenberg_14004",
+          "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+          "claims": [
+            "The Confederate attack upon Fort Sumter on April 12, 1861, was the signal that civil war had actually begun.",
+            "Lincoln maintained a conciliatory policy toward the States in rebellion before the attack on Fort Sumter.",
+            "The attack on Fort Sumter and the capture of forts and property of the United States decided the course of Lincoln's administration.",
+            "On April 15, 1861, Lincoln issued a proclamation asking for the immediate enlistment of 75,000 volunteers.",
+            "Lincoln summoned Congress to convene in an extra session on July 4, 1861.",
+            "Lincoln considered the military posts and property situated within the States that claimed to have seceded as belonging to the Government of the United States."
+          ],
+          "temporal_details": {
+            "date": "April 12, 1861",
+            "time": null
+          },
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 20,
+              "text_preview": "receiving him. They pronounced\r\nhim a spy and his passport a forgery, and were rushing upon the\r\ndefenseless Indian to kill him, when the tall figure of their captain,\r\nLincoln, suddenly appeared betw",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "anderson"
+              ]
+            },
+            {
+              "chunk_index": 103,
+              "text_preview": "President would have been a grave, dry consultation. The great merit of\r\nMr. Lincoln's stories, like Captain Bunsby's opinion, 'lays in the\r\napplication on it.' They always and exactly suited the occa",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "anderson"
+              ]
+            },
+            {
+              "chunk_index": 121,
+              "text_preview": "the basement I heard a loud noise, as of many voices talking\r\nloudly, mingled with the ringing of arms, coming from the great\r\nreception room. On questioning the commander of the guard, I learned\r\ntha",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston"
+              ]
+            },
+            {
+              "chunk_index": 124,
+              "text_preview": "by another proclamation, the\r\nPresident directed the commander of the United States forces in Florida\r\nto \"permit no person to exercise any office or authority upon the\r\nislands of Key West, Tortugas,",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "bombardment"
+              ]
+            },
+            {
+              "chunk_index": 173,
+              "text_preview": "h he made the following curt reply:\r\n\r\n     Your despatch of to-day is just received. It is very painful to me\r\n     that you, in Missouri cannot, or will not, settle your factional\r\n     quarrel amon",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "gutenberg_14004",
+          "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+          "claims": [
+            "The Gettysburg Address was delivered by Abraham Lincoln on November 19, 1863.",
+            "The address was given at the dedication of a cemetery for Union soldiers who died in the Battle of Gettysburg.",
+            "Lincoln's address followed a two-hour oration by Edward Everett.",
+            "Lincoln's speech was brief, consisting of only a few lines, yet it had a profound emotional impact on the audience.",
+            "The address emphasized the principles of liberty and equality, stating that the nation was conceived in liberty and dedicated to the proposition that all men are created equal.",
+            "Lincoln stated that the living should be dedicated to the unfinished work of those who fought at Gettysburg.",
+            "The address concluded with a call for a new birth of freedom and a government of the people, by the people, for the people.",
+            "The audience was deeply moved by Lincoln's words, with many in tears during his delivery."
+          ],
+          "temporal_details": {
+            "date": "November 19, 1863",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 192,
+              "text_preview": "plore the\r\n     interposition of the Almighty Hand to heal the wounds of the\r\n     nation, and to restore it, as soon as may be consistent with the\r\n     divine purposes, to the full enjoyment of peac",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery",
+                "consecrate",
+                "fourscore"
+              ]
+            },
+            {
+              "chunk_index": 5,
+              "text_preview": "ht to Bear on the\r\n     Executive--The Delegation of Quakers--A Visit from Chicago\r\n     Clergymen--Interview between Lincoln and Channing--Lincoln and\r\n     Horace Greeley--The President's Answer to ",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery",
+                "dedication"
+              ]
+            },
+            {
+              "chunk_index": 187,
+              "text_preview": "s shameful van;\r\n      Nor another, to bluster, and lie, and rave,--\r\n    Abraham Lincoln, give us a MAN!\r\n\r\n    Hearts are mourning in the North,\r\n      While the sister rivers seek the main,\r\n    Re",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery",
+                "dedication"
+              ]
+            },
+            {
+              "chunk_index": 193,
+              "text_preview": "devotion; that we here highly\r\n     resolve that these dead shall not have died in vain; that this\r\n     nation, under God, shall have a new birth of freedom; and that\r\n     government of the people, ",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery",
+                "dedication"
+              ]
+            },
+            {
+              "chunk_index": 188,
+              "text_preview": "when he received the\r\ndespatch from Hooker, asking to be relieved, his heart sank within him,\r\nand he was more depressed than at any other moment of the war. \"I could\r\nnot say,\" said Mr. Stanton, \"tha",
+              "keyword_matches": [
+                "gettysburg",
+                "consecrate"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "gutenberg_14004",
+          "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+          "claims": [
+            "Lincoln delivered his Second Inaugural Address on the day of his second inauguration.",
+            "The address was characterized by the phrase 'With malice toward none, with charity for all.'",
+            "Lincoln's Second Inaugural Address was delivered in a clear and strong voice, but touched with pathos.",
+            "The address reflected on the Civil War and the issues surrounding it, particularly slavery.",
+            "Lincoln acknowledged that both the North and South prayed to the same God and read the same Bible, yet were in conflict.",
+            "He expressed hope for a just and lasting peace in his address."
+          ],
+          "temporal_details": {
+            "date": "March 4, 1865",
+            "time": "around noon"
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 6,
+              "text_preview": "Lincoln's Impression of A.H. Stephens--The Second\r\n     Inauguration--Second Inaugural Address--\"With Malice toward None,\r\n     with Charity for All\"--An Auspicious Omen\r\n\r\n\r\nCHAPTER XXVIII\r\n\r\n     Cl",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 198,
+              "text_preview": "ieve that I rank\r\nthe Secretary in this matter,\" remarked Grant. \"Very well, we will see\r\nthe President about that,\" responded the Secretary sharply. \"I will have\r\nto take you to the President.\" \"That",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 209,
+              "text_preview": "ineffaceable care-worn look, yet his manner was cheerful, and he\r\nappeared to be occupied with the work of the moment, to the exclusion of\r\nall thoughts of the future or of the great event of the morr",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 211,
+              "text_preview": "he soldiers invariably\r\nrecognized him, and greeted him, wherever he appeared amongst them, with\r\ncheers that were no lip service, but came from the depth of their\r\nhearts. He always had a pleasant sa",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 225,
+              "text_preview": "r of the man who was at\r\nthat moment the General-in-Chief of the Union armies and the\r\nmilitary adviser of the President: \"Halleck sits and smokes, and\r\nswears, and scratches his arm, but exhibits lit",
+              "keyword_matches": [
+                "inaugural",
+                "swear"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "gutenberg_14004",
+          "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+          "claims": [
+            "Abraham Lincoln and Mrs. Lincoln attended Ford's Theatre on the evening of April 14, 1865, to watch the play 'The American Cousin.'",
+            "General Grant declined Lincoln's invitation to accompany him to the theatre.",
+            "Lincoln was shot at Ford's Theatre at approximately half-past ten o'clock.",
+            "John Wilkes Booth, the assassin, shouted 'Sic semper tyrannis!' after shooting Lincoln.",
+            "Booth escaped from the theatre after the assassination.",
+            "Major Rathbone was present in the President's box during the assassination and attempted to apprehend Booth.",
+            "Lincoln was carried across the street to a house after being shot, where he was attended by surgeons and friends.",
+            "Lincoln died at approximately seven o'clock in the morning on April 15, 1865.",
+            "Secretary Seward and his son were also attacked on the same night as Lincoln's assassination.",
+            "The news of Lincoln's assassination caused widespread grief and mourning across the country."
+          ],
+          "temporal_details": {
+            "date": "April 14-15, 1865",
+            "time": "approximately half-past ten o'clock for the shooting; around seven o'clock in the morning for Lincoln's death"
+          },
+          "tone": "Sympathetic",
+          "source_chunks": [
+            {
+              "chunk_index": 219,
+              "text_preview": "e inner room of his business office at the White House,\r\nwith his coat off, washing his hands preparatory to a drive. 'Hello,'\r\nsaid he, 'what is it?' Listening to the despatch, he asked, 'What does\r\n",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "booth",
+                "assassin",
+                "shot",
+                "pistol",
+                "wilkes"
+              ]
+            },
+            {
+              "chunk_index": 230,
+              "text_preview": "Fithian, Dr., 126\r\n\r\nFlatboat, constructed by L., 17-18\r\n\r\nFlorida, secedes, 261\r\n\r\nFord's Theatre, scene of assassination, 586-591\r\n\r\nForquer, George, lightning rod anecdote, 57\r\n\r\nForrest, Edwin, 46",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "theater",
+                "assassin",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 220,
+              "text_preview": "ere I stood, and I recognized him as John Wilkes Booth. He ran towards\r\nme, and I, seeing the knife, thought I was the one he was after, and ran\r\noff the stage and up a flight of stairs. He made his e",
+              "keyword_matches": [
+                "theatre",
+                "booth",
+                "assassin",
+                "shot",
+                "pistol",
+                "wilkes",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 221,
+              "text_preview": "temporaneous\r\nrecord of Secretary Welles, a singularly cool observer and clear\r\nnarrator. \"I had retired to bed about half-past ten on the evening of\r\nthe 14th of April,\" writes Mr. Welles, \"and was j",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "assassin",
+                "shot",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 229,
+              "text_preview": "knowledge of Union moves, 292;\r\n  Trent affair, 340-345;\r\n  favored capital, 348;\r\n  Canadian machinations, 352-353\r\n\r\nCongress,\r\n  special session, July 4,1861, 322;\r\n  emancipation measures, 421\r\n\r\n",
+              "keyword_matches": [
+                "ford",
+                "theatre",
+                "assassin",
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "gutenberg_18379",
+      "document_title": "Abraham Lincoln by Baron Godfrey Rathbone Benson Charnwood",
+      "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+      "source": "gutenberg",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "gutenberg_18379",
+          "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+          "claims": [
+            "The Presidential election took place on November 6, 1860.",
+            "On Election Night, November 6, Lincoln sat alone with the operator in the telegraph box at Springfield, receiving the results of the elections of Presidential electors in various States.",
+            "Lincoln was sure of his return before the election returns were complete.",
+            "Lincoln solved the first problem of his Presidency, the choice of a Cabinet, before leaving the telegraph box.",
+            "Lincoln was elected by a minority of the American people, having a large majority over Douglas but potentially losing to Douglas if Breckinridge's votes were considered.",
+            "Lincoln's votes were drawn only from the Northern States, carrying almost all the free States and no others.",
+            "The election of Lincoln was greeted throughout the South with a howl of derision."
+          ],
+          "temporal_details": {
+            "date": "November 6, 1860",
+            "time": null
+          },
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 77,
+              "text_preview": "tire to the mainland.\r\nBuchanan wavered; decided to yield to them on this last point;\r\nultimately, on the last day of 1860, yielded instead to severe pressure\r\nfrom Black, and decided to reinforce And",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "november",
+                "telegraph",
+                "president-elect"
+              ]
+            },
+            {
+              "chunk_index": 68,
+              "text_preview": "ion ever made in America.  Other Presidential\r\ncandidates have been born in poverty, but none ever wore the scars of\r\npoverty so plainly; others have been intrinsically more obscure, but\r\nthese have u",
+              "keyword_matches": [
+                "election",
+                "november",
+                "votes",
+                "returns",
+                "telegraph",
+                "springfield",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 75,
+              "text_preview": "ed from the shoulders of all men.\"\r\n\r\n\r\n2. _The Progress of Secession_.\r\n\r\nSo much for the broad causes without which there could have been no Civil\r\nWar in America.  We have now to sketch the process",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "november",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 187,
+              "text_preview": "Quebec.           1759.  Capture of Quebec.\r\n\r\n                                     1757-60.  Ministry of Chatham\r\n                                                 (William Pitt).\r\n\r\n                 ",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "telegraph",
+                "elected"
+              ]
+            },
+            {
+              "chunk_index": 60,
+              "text_preview": "these interrogatories.  The Dred\r\nScott judgments created a great difficulty for Douglas; he was bound to\r\ntreat them as right; but if they were right and Congress had no power\r\nto prohibit slavery in",
+              "keyword_matches": [
+                "election",
+                "1860",
+                "votes"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "gutenberg_18379",
+          "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+          "claims": [
+            "Lincoln was confronted with the decision regarding Fort Sumter shortly after his inauguration.",
+            "Major Anderson at Fort Sumter reported to Lincoln that he could only hold out a few weeks longer unless reinforced.",
+            "General Scott advised Lincoln that relieving Fort Sumter would require a force of 20,000 men, which was not available.",
+            "Lincoln's Cabinet was divided on whether to provision Fort Sumter, with some members supporting it and others opposing it.",
+            "Lincoln reserved his decision on whether to evacuate Fort Sumter despite the Cabinet's recommendations.",
+            "The Confederacy claimed Fort Sumter as part of their sovereign rights.",
+            "Lincoln's eventual decision was to send provisions to Fort Sumter but not troops.",
+            "The Confederate batteries opened fire on Fort Sumter on April 12, 1861.",
+            "Anderson capitulated on April 14, 1861, after the fort became untenable."
+          ],
+          "temporal_details": {
+            "date": "April 12, 1861",
+            "time": null
+          },
+          "tone": "Critical",
+          "source_chunks": [
+            {
+              "chunk_index": 76,
+              "text_preview": "nfronted Lincoln when he came into office, and it must\r\nbe clearly understood.  The secession of South Carolina was not a\r\nmovement which could at once be quelled by prompt measures of repression.\r\nEv",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston",
+                "anderson"
+              ]
+            },
+            {
+              "chunk_index": 84,
+              "text_preview": "t, and, by the readiness with which most\r\nof Seward's suggestions were adopted, and the decision with which some,\r\nand those not the least important, were set aside by Lincoln, it\r\nillustrates well th",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "anderson",
+                "pickens"
+              ]
+            },
+            {
+              "chunk_index": 86,
+              "text_preview": "r assume responsibility.\"  In other words, Seward put himself forward\r\nas the sole director of the Government.  In his brief reply Lincoln made\r\nno reference whatever to Seward's amazing programme.  H",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "anderson",
+                "pickens"
+              ]
+            },
+            {
+              "chunk_index": 189,
+              "text_preview": "of people in them, 56, 198.\r\n\r\nAlley: 429.\r\n\r\nAlton: 76.\r\n\r\nAmendment of Constitution: how carried, 24; suggested amendment to\r\nconciliate South, 192; Thirteenth Amendment prohibiting slavery, 335-7,\r",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "charleston",
+                "anderson"
+              ]
+            },
+            {
+              "chunk_index": 77,
+              "text_preview": "tire to the mainland.\r\nBuchanan wavered; decided to yield to them on this last point;\r\nultimately, on the last day of 1860, yielded instead to severe pressure\r\nfrom Black, and decided to reinforce And",
+              "keyword_matches": [
+                "sumter",
+                "fort",
+                "anderson"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "gutenberg_18379",
+          "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+          "claims": [
+            "The Gettysburg Address was delivered by Abraham Lincoln on November 19, 1863.",
+            "The occasion was the dedication of a National Cemetery on the field of Gettysburg.",
+            "Edward Everett delivered a two-hour oration at the dedication ceremony.",
+            "Lincoln was invited to say a few words at the close of the ceremony.",
+            "Lincoln's speech is described as having the potential to endure with the English language.",
+            "Lincoln's address included the phrase 'Four score and seven years ago our fathers brought forth on this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.'",
+            "Lincoln's speech emphasized the importance of dedicating the ground to the soldiers who died in the Civil War."
+          ],
+          "temporal_details": {
+            "date": "November 19, 1863",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 147,
+              "text_preview": "y be presumed to have been wise in many cases where we do\r\nnot know his reasons.  Few statesmen, perhaps, have so often stood\r\nwaiting and refrained themselves from a firm will and not from the want\r\n",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery",
+                "consecrate",
+                "four score"
+              ]
+            },
+            {
+              "chunk_index": 146,
+              "text_preview": "ds Chattanooga with over 71,000 men against the 57,000 with\r\nwhich Rosecrans, scattering his troops in false security, was pursuing\r\nhim.  The two armies came upon one another, without clear expectati",
+              "keyword_matches": [
+                "gettysburg",
+                "cemetery"
+              ]
+            },
+            {
+              "chunk_index": 64,
+              "text_preview": "o a certain deference towards the\r\nSouth and prepared to appreciate its graceful hospitality, experienced\r\nan uneasy sense that they were regarded as social inferiors.  Worse\r\ntrouble than this appear",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            },
+            {
+              "chunk_index": 134,
+              "text_preview": "imself it was a stirring thought that when democratic\r\ngovernment was finally vindicated and restored by the victory of the\r\nUnion, \"then there will be some black men who can remember that with\r\nsilen",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            },
+            {
+              "chunk_index": 144,
+              "text_preview": "that gunboats\r\nproved able to pass Vicksburg in any case, thought that Pemberton, whom\r\nhe could not at the moment hope to relieve, should abandon Vicksburg and\r\ntry to save his army.  Long before Joh",
+              "keyword_matches": [
+                "gettysburg"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "gutenberg_18379",
+          "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+          "claims": [
+            "Abraham Lincoln delivered his Second Inaugural Address on March 4, 1865.",
+            "The Second Inaugural Address is noted for its use of intense religious language.",
+            "Lincoln's Second Inaugural Address reflects his desire for mercy and reconciliation.",
+            "The Second Inaugural Address emphasizes the need to bind up the nation's wounds and achieve lasting peace.",
+            "Lincoln expressed in the Second Inaugural Address that the war was a divine punishment for the offense of slavery.",
+            "The Second Inaugural Address includes the famous line, 'With malice toward none; with charity for all.'",
+            "Lincoln believed that the judgments of the Lord regarding the war were true and righteous."
+          ],
+          "temporal_details": {
+            "date": "March 4, 1865",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": [
+            {
+              "chunk_index": 184,
+              "text_preview": "says Sherman, who watched him closely.\r\nHe exclaimed that it was a disgrace to the age.  Then he asked to know\r\nwhether Sherman attributed the crime to the Confederate authorities.\r\nSherman could assu",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 180,
+              "text_preview": "If we shall suppose that American slavery is one of those\r\noffenses, which, in the providence of God, must needs come, but which,\r\nhaving continued through His appointed time, He now wills to remove,\r",
+              "keyword_matches": [
+                "inaugural",
+                "malice",
+                "charity"
+              ]
+            },
+            {
+              "chunk_index": 178,
+              "text_preview": "ison in Lynchburg, 80 or 90 miles west of Richmond, which though\r\nstrong enough to prevent Sheridan's cavalry from capturing that place\r\nwas not otherwise of account; but there was no Confederate forc",
+              "keyword_matches": [
+                "inaugural",
+                "second inaugural"
+              ]
+            },
+            {
+              "chunk_index": 82,
+              "text_preview": "t this time there was very solid reason why\r\ndifferent States should be contented and why he should be advised as to\r\ntheir feelings.  His own chief rivals for the Presidency offered a good\r\nchoice fr",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            },
+            {
+              "chunk_index": 83,
+              "text_preview": "causes which mould public\r\naffairs.  But, except in sheer moral discipline, those years had done\r\nnothing to supply the special training which he had previously lacked,\r\nfor high executive office.  In",
+              "keyword_matches": [
+                "inaugural"
+              ]
+            }
+          ]
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "gutenberg_18379",
+          "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+          "claims": [
+            "Abraham Lincoln was shot at Ford's Theatre on the night of April 14, 1865.",
+            "Lincoln fell forward upon the front of the box unconscious and dying after being shot.",
+            "John Wilkes Booth entered Lincoln's box unobserved and shot him.",
+            "Booth attempted to stab Major Rathbone, who tried to seize him.",
+            "Booth jumped from the box to the stage, fell, and broke the small bone of his leg.",
+            "Booth shouted 'Sic semper tyrannis' after jumping to the stage.",
+            "Booth escaped on a horse that was waiting at the stage door.",
+            "Booth was the leader of a conspiracy that aimed to kill not only Lincoln but also Andrew Johnson and William H. Seward.",
+            "One of the conspirators attacked Seward at his home, wounding him and others.",
+            "Booth was later shot in a barn by soldiers pursuing him."
+          ],
+          "temporal_details": {
+            "date": "April 14, 1865",
+            "time": "after 10 o'clock"
+          },
+          "tone": "Neutral",
+          "source_chunks": [
+            {
+              "chunk_index": 183,
+              "text_preview": "\"if we are wise and discreet we shall re-animate\r\nthe States and get their governments in successful operation, with\r\norder prevailing and the Union re-established.\"  Lastly, there was talk\r\nof the tr",
+              "keyword_matches": [
+                "theatre",
+                "booth",
+                "shot",
+                "wilkes",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 91,
+              "text_preview": "rved for four years, not one achieved brilliant success; of the\r\ngenerals in the war whose names are remembered, some had indeed passed\r\nyears in civil life, but every one had received a thorough mili",
+              "keyword_matches": [
+                "ford",
+                "theatre"
+              ]
+            },
+            {
+              "chunk_index": 116,
+              "text_preview": "ome estimate of his curious yet by no means uncommon type of character\r\nis necessary, if Lincoln's relations with him are to be understood at\r\nall.  The devotion to him shown by his troops proves that",
+              "keyword_matches": [
+                "ford",
+                "theatre"
+              ]
+            },
+            {
+              "chunk_index": 4,
+              "text_preview": "th long arms and large hands and\r\nrelatively small development of chest, and the strange deep-cut\r\nlineaments of his face were perhaps the evidence of unfit (sometimes\r\ninsufficient) food in these yea",
+              "keyword_matches": [
+                "ford",
+                "shot",
+                "death"
+              ]
+            },
+            {
+              "chunk_index": 180,
+              "text_preview": "If we shall suppose that American slavery is one of those\r\noffenses, which, in the providence of God, must needs come, but which,\r\nhaving continued through His appointed time, He now wills to remove,\r",
+              "keyword_matches": [
+                "ford",
+                "shot",
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "document_id": "loc_mal0440500",
+      "document_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)",
+      "author": "Abraham Lincoln",
+      "source": "loc",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "loc_mal0440500",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "loc_mal0440500",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "loc_mal0440500",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "loc_mal0440500",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "loc_mal0440500",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        }
+      ]
+    },
+    {
+      "document_id": "loc_mal0882800",
+      "document_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+      "author": "Abraham Lincoln",
+      "source": "loc",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "loc_mal0882800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "loc_mal0882800",
+          "author": "Abraham Lincoln",
+          "claims": [
+            "Robert S. Chew left Washington at 6 P.M. on April 6, 1861, and arrived at Charleston, S.C. on April 8, 1861.",
+            "Fort Sumter had neither been surrendered, evacuated, nor attacked at the time of Chew's arrival.",
+            "Chew requested an interview with Governor Pickens upon his arrival in Charleston.",
+            "Governor Pickens received a copy of the orders from Chew and stated he would submit it to General Beauregard.",
+            "General Beauregard was in charge of military operations in the vicinity of Fort Sumter.",
+            "Chew was not authorized to receive any communication in reply from Governor Pickens."
+          ],
+          "temporal_details": {
+            "date": "April 6, 1861",
+            "time": "6 P.M."
+          },
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "loc_mal0882800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "loc_mal0882800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "loc_mal0882800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        }
+      ]
+    },
+    {
+      "document_id": "loc_gettysburg",
+      "document_title": "Gettysburg Address",
+      "author": "Abraham Lincoln",
+      "source": "loc",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "loc_gettysburg",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "loc_gettysburg",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "loc_gettysburg",
+          "author": "Abraham Lincoln",
+          "claims": [
+            "The Gettysburg Address was delivered during the American Civil War.",
+            "The address references the founding of a new nation conceived in liberty and dedicated to the proposition that all men are created equal.",
+            "Lincoln states that the nation is engaged in a great civil war testing its endurance.",
+            "The address was delivered at a battlefield where soldiers died for the nation.",
+            "Lincoln emphasizes that the ground cannot be consecrated by words, as the brave men who fought there have already hallowed it.",
+            "Lincoln expresses that the living should dedicate themselves to the cause for which the fallen soldiers gave their lives.",
+            "He resolves that the dead shall not have died in vain and that the nation shall have a new birth of freedom.",
+            "Lincoln concludes that government of the people, by the people, for the people, shall not perish from the earth."
+          ],
+          "temporal_details": {
+            "date": "Four score and seven years ago",
+            "time": null
+          },
+          "tone": "Admiring",
+          "source_chunks": []
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "loc_gettysburg",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "loc_gettysburg",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        }
+      ]
+    },
+    {
+      "document_id": "loc_mal4361300",
+      "document_title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln, [March 4, 1865] (Second Inaugural Address; endorsed by Lincoln, April 10, 1865)",
+      "author": "Abraham Lincoln",
+      "source": "loc",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "loc_mal4361300",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "loc_mal4361300",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "loc_mal4361300",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "loc_mal4361300",
+          "author": "Abraham Lincoln",
+          "claims": [
+            "Abraham Lincoln delivered his Second Inaugural Address on March 4, 1865.",
+            "The only known manuscript of Lincoln's Second Inaugural Address is a fair copy rather than a composition draft.",
+            "Lincoln revised the ending of the address by pasting a slip of paper over the last two lines and writing the revised version on it.",
+            "Printed copies of the address were made available to the press.",
+            "The manuscript was presented by Lincoln to John Hay and later to the Library of Congress in 1916.",
+            "Lincoln's address acknowledged that there was less occasion for an extended address than at his first inauguration.",
+            "Lincoln noted that during his first inauguration, there was an impending civil war that all sought to avert.",
+            "Lincoln stated that one eighth of the whole population were colored slaves localized in the Southern part of the Union.",
+            "Lincoln claimed that the cause of the war was related to the interest in slavery.",
+            "Lincoln expressed hope for a lasting peace among all nations."
+          ],
+          "temporal_details": {
+            "date": "March 4, 1865",
+            "time": null
+          },
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "loc_mal4361300",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        }
+      ]
+    },
+    {
+      "document_id": "loc_mal4361800",
+      "document_title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: E. B. Hall to Abraham Lincoln and James Speed, Saturday, March 18, 1865 (Recommendation)",
+      "author": "Abraham Lincoln",
+      "source": "loc",
+      "extractions": [
+        {
+          "event_id": "election_1860",
+          "event_name": "Election Night 1860",
+          "document_id": "loc_mal4361800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "document_id": "loc_mal4361800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "document_id": "loc_mal4361800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "document_id": "loc_mal4361800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        },
+        {
+          "event_id": "fords_theatre",
+          "event_name": "Ford's Theatre Assassination",
+          "document_id": "loc_mal4361800",
+          "author": "Abraham Lincoln",
+          "claims": [],
+          "temporal_details": null,
+          "tone": "Neutral",
+          "source_chunks": []
+        }
+      ]
+    }
+  ]
+}

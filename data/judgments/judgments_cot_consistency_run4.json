@@ -1,0 +1,175 @@
+{
+  "judged_at": "2025-12-06T21:30:30.685504+00:00",
+  "llm_provider": "openai",
+  "llm_model": "gpt-4o-mini",
+  "prompt_strategy": "cot",
+  "temperature": 0.7,
+  "run_id": "consistency_run4",
+  "events": [
+    {
+      "event_id": "fort_sumter",
+      "event_name": "Fort Sumter Decision",
+      "judgments": [
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 90,
+          "contradictions": [],
+          "reasoning": "There are no factual contradictions or significant interpretive differences. Both accounts align well, with Ketcham providing additional context that complements Lincoln's claims."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 70,
+          "contradictions": [
+            {
+              "type": "omission",
+              "lincoln_claim": "Chew requested an interview with Governor Pickens upon his arrival in Charleston.",
+              "other_claim": "null",
+              "explanation": "Morse omits Chew's role and the communication between Chew and Governor Pickens, which is central to Lincoln's account."
+            }
+          ],
+          "reasoning": "Lincoln and Morse provide overlapping narratives but differ in focus. Lincoln emphasizes the communication through Chew, which Morse does not mention, leading to an omission that undermines Lincoln's detailed account."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 100,
+          "contradictions": [],
+          "reasoning": "Browne's account provides broader context and interpretation surrounding the events of Fort Sumter without contradicting Lincoln's specific claims. There are no factual disagreements or significant omissions."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 80,
+          "contradictions": [],
+          "reasoning": "There are no direct factual contradictions between Lincoln's and Charnwood's accounts. While there are interpretive differences regarding the motivations and significance of events, these do not undermine Lincoln's claims. The omission of specific details from Charnwood does not contradict Lincoln's account but rather provides a different perspective."
+        }
+      ]
+    },
+    {
+      "event_id": "gettysburg_address",
+      "event_name": "Gettysburg Address",
+      "judgments": [
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 61,
+          "contradictions": [
+            {
+              "type": "interpretive",
+              "lincoln_claim": "The address emphasizes that the ground cannot be consecrated by words, as the brave men who fought there have already hallowed it.",
+              "other_claim": null,
+              "explanation": "Ketcham does not capture the depth of Lincoln's message regarding the hallowing of the ground, which is central to Lincoln's argument."
+            },
+            {
+              "type": "omission",
+              "lincoln_claim": "Lincoln expresses that the living should dedicate themselves to the cause for which the fallen soldiers gave their lives.",
+              "other_claim": null,
+              "explanation": "Ketcham does not mention this significant call to action from Lincoln, which is a critical aspect of his speech."
+            }
+          ],
+          "reasoning": "While Ketcham's account aligns in many factual respects with Lincoln's claims, there are notable interpretive differences regarding the significance of the address and omissions of key elements of Lincoln's message."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 91,
+          "contradictions": [],
+          "reasoning": "Both accounts align closely regarding the content and context of the Gettysburg Address, with minor interpretive differences about the emphasis on Lincoln's role versus that of Edward Everett. No factual contradictions were identified."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 95,
+          "contradictions": [],
+          "reasoning": "Lincoln's claims and Browne's claims align very well, with no factual contradictions or significant interpretive differences. The emotional context provided by Browne complements Lincoln’s message, leading to a high consistency score."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 95,
+          "contradictions": [],
+          "reasoning": "Charnwood's account aligns closely with Lincoln's claims, with no factual contradictions and only minor interpretive differences that do not undermine Lincoln's statements."
+        }
+      ]
+    },
+    {
+      "event_id": "second_inaugural",
+      "event_name": "Second Inaugural Address",
+      "judgments": [
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 75,
+          "contradictions": [],
+          "reasoning": "Ketcham's account mostly aligns with Lincoln's claims, particularly regarding the date and themes of the Second Inaugural Address. There are minor interpretive differences regarding Lincoln's policy continuity, but no factual contradictions. The overall consistency is strong, leading to a score of 75."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 70,
+          "contradictions": [
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln claimed that the cause of the war was related to the interest in slavery.",
+              "other_claim": "He acknowledged that the issue of slavery was somehow the cause of the war.",
+              "explanation": "Morse's wording implies uncertainty ('somehow'), which contrasts with Lincoln's more direct assertion."
+            }
+          ],
+          "reasoning": "There is a strong alignment between Morse's claims and Lincoln's account, with some interpretive differences regarding the characterization of the causes of the war. No factual contradictions were found."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 90,
+          "contradictions": [],
+          "reasoning": "Both accounts align closely with no direct factual contradictions. Minor interpretive differences exist, but they do not undermine the overall consistency between Lincoln's claims and Browne's account."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 81,
+          "contradictions": [],
+          "reasoning": "Both accounts align on key factual points, including the date of the address and its themes. There are minor interpretive differences regarding the emphasis on religious language and divine judgment, but no factual contradictions or significant omissions were found."
+        }
+      ]
+    }
+  ]
+}

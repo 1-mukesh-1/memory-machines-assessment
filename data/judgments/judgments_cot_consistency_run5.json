@@ -1,0 +1,162 @@
+{
+  "judged_at": "2025-12-06T21:32:11.002197+00:00",
+  "llm_provider": "openai",
+  "llm_model": "gpt-4o-mini",
+  "prompt_strategy": "cot",
+  "temperature": 0.7,
+  "run_id": "consistency_run5",
+  "events": [
+    {
+      "event_id": "fort_sumter",
+      "event_name": "Fort Sumter Decision",
+      "judgments": [
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 90,
+          "contradictions": [],
+          "reasoning": "Both accounts align closely, with Ketcham providing additional context that complements Lincoln's claims. There are no factual contradictions, and the differences in interpretation do not undermine the overall consistency of the accounts."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 80,
+          "contradictions": [],
+          "reasoning": "The accounts align on key players and the military context but differ in focus, with Morse emphasizing military actions and Lincoln detailing the diplomatic communications surrounding Fort Sumter. There are no direct contradictions."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 80,
+          "contradictions": [],
+          "reasoning": "There are no direct factual contradictions or significant omissions between Lincoln's and Browne's accounts. While Browne's interpretation of Lincoln's motivations differs slightly, the overall alignment in the context of Fort Sumter remains strong."
+        },
+        {
+          "event_id": "fort_sumter",
+          "event_name": "Fort Sumter Decision",
+          "lincoln_doc_id": "loc_mal0882800",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 90,
+          "contradictions": [],
+          "reasoning": "The accounts do not contain factual contradictions or significant interpretive differences. They complement each other, with Charnwood providing broader context to Lincoln's specific claims about communication and actions regarding Fort Sumter."
+        }
+      ]
+    },
+    {
+      "event_id": "gettysburg_address",
+      "event_name": "Gettysburg Address",
+      "judgments": [
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 81,
+          "contradictions": [
+            {
+              "type": "interpretive",
+              "lincoln_claim": "Lincoln expresses that the living should dedicate themselves to the cause for which the fallen soldiers gave their lives.",
+              "other_claim": "The immediate effect of the Gettysburg Address was not significant.",
+              "explanation": "This reflects a differing interpretation of the significance of the address and its immediate reception."
+            }
+          ],
+          "reasoning": "Ketcham's account aligns well with Lincoln's claims, although there are interpretive differences regarding the immediate impact of the address. The majority of claims are consistent with some minor differences in interpretation."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 95,
+          "contradictions": [],
+          "reasoning": "Morse's account aligns closely with Lincoln's claims in terms of factual content and significant themes, with no notable contradictions or omissions present."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 100,
+          "contradictions": [],
+          "reasoning": "Both Lincoln's and Browne's accounts align strongly on the key elements of the Gettysburg Address, with no factual disagreements or significant interpretive differences. Browne adds context about the audience's emotional response, but this does not contradict Lincoln's claims."
+        },
+        {
+          "event_id": "gettysburg_address",
+          "event_name": "Gettysburg Address",
+          "lincoln_doc_id": "loc_gettysburg",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 90,
+          "contradictions": [],
+          "reasoning": "Charnwood's account closely aligns with Lincoln's claims, presenting additional context without contradicting or undermining the essence of Lincoln's address."
+        }
+      ]
+    },
+    {
+      "event_id": "second_inaugural",
+      "event_name": "Second Inaugural Address",
+      "judgments": [
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_6811",
+          "other_author": "Ketcham",
+          "consistency_score": 85,
+          "contradictions": [],
+          "reasoning": "Ketcham's account aligns well with Lincoln's claims, especially regarding the date and themes of the address. While there are some interpretive differences regarding policy and characterization, these do not create contradictions, maintaining a high level of consistency."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_12801",
+          "other_author": "Morse",
+          "consistency_score": 80,
+          "contradictions": [],
+          "reasoning": "Morse's account closely aligns with Lincoln's claims, with minor interpretive differences and some omissions but no direct contradictions."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_14004",
+          "other_author": "Browne",
+          "consistency_score": 85,
+          "contradictions": [],
+          "reasoning": "Browne's account aligns well with Lincoln's claims, though it includes some interpretive elements. There are no factual contradictions, and while there are minor omissions, they do not contradict or undermine Lincoln's account."
+        },
+        {
+          "event_id": "second_inaugural",
+          "event_name": "Second Inaugural Address",
+          "lincoln_doc_id": "loc_mal4361300",
+          "other_doc_id": "gutenberg_18379",
+          "other_author": "Charnwood",
+          "consistency_score": 70,
+          "contradictions": [
+            {
+              "type": "interpretive",
+              "lincoln_claim": "null",
+              "other_claim": "The Second Inaugural Address is noted for its use of intense religious language.",
+              "explanation": "Charnwood emphasizes religious language and the notion of divine punishment, which Lincoln's address does not explicitly state."
+            }
+          ],
+          "reasoning": "The accounts align closely on the factual details and key themes of Lincoln's address, but there is a notable interpretive difference regarding the emphasis on religious language and divine judgment in Charnwood's interpretation."
+        }
+      ]
+    }
+  ]
+}
