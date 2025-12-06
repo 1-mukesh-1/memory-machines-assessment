@@ -214,3 +214,4 @@ p
 .streamlit/config.toml
 lincoln-report.html
 .streamlit/secrets.toml
+.DS_Store
