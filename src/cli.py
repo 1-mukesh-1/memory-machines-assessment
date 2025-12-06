@@ -65,7 +65,7 @@ def all():
     typer.echo("Running complete pipeline...")
     part1()
     part2(strategy="cot", all_strategies=False)
-    part3(strategy="cot", experiments=False, temperature=0.0)
+    part3(strategy="cot", experiments=True, temperature=0.0)  # Changed to True
 
 
 if __name__ == "__main__":
