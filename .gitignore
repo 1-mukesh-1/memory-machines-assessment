@@ -213,3 +213,4 @@ part1_analysis.py
 p
 .streamlit/config.toml
 lincoln-report.html
+.streamlit/secrets.toml

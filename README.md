@@ -2,6 +2,8 @@
 
 Compares Lincoln's own writings (Library of Congress) against biographer accounts (Project Gutenberg) using an LLM judge to detect inconsistencies.
 
+**Live Demo:** https://memory-machines-assessment-mukesh.streamlit.app/
+
 ## Setup
 
 ```bash
